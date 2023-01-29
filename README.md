@@ -19,4 +19,4 @@ To connect to your server, a **patched client** is required.
 Download this [base APK](https://drive.google.com/file/d/1GYtNvucblPgtsHanN8T2eAKXzGQFa5i6/view?usp=drivesdk) and change the IP in `libsb9838.config.so`
 
 ### Need help?
-Open an issue or contact me on **Discord**: Artem_dev#0947
+Open an issue or contact me on **Discord**: Artem_dev#0947 or **Telegram**: @imlovevr
