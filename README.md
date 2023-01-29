@@ -9,9 +9,7 @@ Brawl Stars v20 server emulator written in Python.
 - pymongo
 - dnspython
 - colorama
-
-### MongoDB configuration
-First you'll need to put your MongoDB connection string in `config.json`. If you don't know how to get it here's a quick tutorial: https://imgur.com/a/oXI34dA
+- tinydb
 
 ### Running the server
 In a terminal, type __`pip install -r requirements.txt`__ then __`python main.py`__
